@@ -3,7 +3,7 @@
 # Script to display system information
 
 echo "---------------------------------"
-echo "    System Information Report    "
+echo "  HELLO THIS IS NEW CODE CHANGE ----  System Information Report    "
 echo "---------------------------------"
 # Display the current date and time
 echo "Date and Time: $(date)"
